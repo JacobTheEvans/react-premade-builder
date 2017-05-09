@@ -6,4 +6,4 @@
 <p>3. Open a terminal and run 'node build.js'</p>
 <p>4. Open the /public/index.html in your browser and checkout your React Website</p>
 <p>*Note*</p>
-<p>This project uses watchify so you can leave your build script running. If any changes occur the code will rebuild</p>
+<p>This project uses watchify so you can leave your build script running. If any changes occur in the code  your app will rebuild</p>
